@@ -1,0 +1,39 @@
+{
+    "data": {
+        "id": 1,
+        "fullName": "Mr.Zhang",
+        "pictureUrl": "mifeng.jpg",
+        "email": "xxxxxxxxxx@qq.com",
+        "about": "爱生活、爱美食、爱编程、爱游戏、爱旅行"
+        "friends": [
+                    {
+                    "name": "张三",
+                    "pictureUrl": "1"
+                    },
+                    {
+                    "name": "李四",
+                    "pictureUrl": "2"
+                    },
+                    {
+                    "name": "王五",
+                    "pictureUrl": "3"
+                    }
+                    ],
+        "profileAttributes": [
+                              {
+                              "key": "Date of birth",
+                              "value": "1994-03-17"
+                              },
+                              {
+                              "key": "Gender",
+                              "value": "male"
+                              },
+                              {
+                              "key": "Height",
+                              "value": "176"
+                              }
+                              ]
+    },
+    "error": 0,
+    "message": "Success"
+}
